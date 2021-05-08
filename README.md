@@ -1,1 +1,1 @@
-Exercicos da Trybe
+Exercicos do curso de desenvolvimento web da Trybe
