@@ -1,0 +1,25 @@
+div:hover {
+    border-width: 5px;
+    border-style: solid;
+}
+.vermelho {
+    color: red;
+}
+.roxo {
+    color: purple;
+}
+.verde {
+    color: seagreen;
+}
+.escuro {
+    color: darkblue;
+}
+.claro {
+    color: wheat;
+}
+div:nth-child(5n) {
+    font-size: 20px;
+}
+h3:nth-child(odd) {
+    font-style: italic;
+}
