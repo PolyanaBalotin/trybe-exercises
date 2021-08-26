@@ -1,0 +1,23 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  padding: 20px;
+  display: flex;
+}
+
+@media screen and (max-width: 600px) {
+  body {
+    background-color: rgb(177, 198, 253);
+    font-size: large;
+  }
+
+  p {
+    line-height: 25px;
+  }
+
+}
