@@ -1,0 +1,16 @@
+{
+  "name": "dia_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "func1": "node func1.js",
+    "func2": "node func2.js",
+    "func3": "node func3.js",
+    "func4": "node func4.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
